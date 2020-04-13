@@ -29,4 +29,21 @@ Below are some examples of my results. More can be found in the 'result' file.
  <img width="200" height="200" src="https://github.com/actbee/A-Rainy-Afternoon-in-Harajuku-1990.-/blob/master/results/)TG%40SI90Q%24Z0QQ36J%40R8YF4.png"/>
  <img width="200" height="200" src="https://github.com/actbee/A-Rainy-Afternoon-in-Harajuku-1990.-/blob/master/results/1IB40S)3%7DS%7DP8J%60W%60%5BO8E6C.png"/>
 </div>
-
+<div align=center>
+ <img width="200" height="200" src="https://github.com/actbee/A-Rainy-Afternoon-in-Harajuku-1990.-/blob/master/results/28KAWT1EDO%7BJ)_QT9%247%24E%40O.png"/>
+ <img width="200" height="200" src="https://github.com/actbee/A-Rainy-Afternoon-in-Harajuku-1990.-/blob/master/results/3AUJMABKK~D0%25L_%24ZUY(9UW.png"/>
+ <img width="200" height="200" src="https://github.com/actbee/A-Rainy-Afternoon-in-Harajuku-1990.-/blob/master/results/6%7DJ%7BPQWM772WK%60FE90REI%7DW.png"/>
+ <img width="200" height="200" src="https://github.com/actbee/A-Rainy-Afternoon-in-Harajuku-1990.-/blob/master/results/9~L34ICLOPG_BCP%7B2DX%40ZCU.png"/>
+</div>
+<div align=center>
+ <img width="200" height="200" src="https://github.com/actbee/A-Rainy-Afternoon-in-Harajuku-1990.-/blob/master/results/%40U02HCB(OU2R%406%40LYWHE%7DU3.png"/>
+ <img width="200" height="200" src="https://github.com/actbee/A-Rainy-Afternoon-in-Harajuku-1990.-/blob/master/results/~V583H%40T3B%7B)V%7DRN7AS5FM6.png"/>
+ <img width="200" height="200" src="https://github.com/actbee/A-Rainy-Afternoon-in-Harajuku-1990.-/blob/master/results/%7BA%7DMBY%5D%7DY%60IV%40%7DP4N%25~K%6077.png"/>
+ <img width="200" height="200" src="https://github.com/actbee/A-Rainy-Afternoon-in-Harajuku-1990.-/blob/master/results/%5D_B3UZ0~U78(E_41%40(6%7BY~4.png"/>
+</div>
+<div align=center>
+ <img width="200" height="200" src="https://github.com/actbee/A-Rainy-Afternoon-in-Harajuku-1990.-/blob/master/results/%5DDRF%5DZO7(71D)~T)%252P93OO.png"/>
+ <img width="200" height="200" src="https://github.com/actbee/A-Rainy-Afternoon-in-Harajuku-1990.-/blob/master/results/XO%7B53%5D%7DZ(50AWUTR9%7DU6)4I.png"/>
+ <img width="200" height="200" src="https://github.com/actbee/A-Rainy-Afternoon-in-Harajuku-1990.-/blob/master/results/UI%5DF%7BU5_L(RW%60%7BEJH954VZT.png"/>
+ <img width="200" height="200" src="https://github.com/actbee/A-Rainy-Afternoon-in-Harajuku-1990.-/blob/master/results/RK2R0_1DYI%60AL(VCP%24%5BL%24(M.png"/>
+</div>
