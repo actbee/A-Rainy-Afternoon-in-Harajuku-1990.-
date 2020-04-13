@@ -16,9 +16,9 @@ they are in fact about 30 years older now. It is quite amazing to see these fash
 Indeed, the fashion seems a circle and something never changes regradeless of time. 
 
 Below are some examples of my results. More can be found in the 'result' file.
- 
-![result1](https://github.com/actbee/A-Rainy-Afternoon-in-Harajuku-1990.-/blob/master/results/%24%25R%40LGKG~QAHGTMQ%25(YU9P4.png ) 
 
-![result2](https://github.com/actbee/A-Rainy-Afternoon-in-Harajuku-1990.-/blob/master/results/%25M4FYZ64EHVS91PA96BK_JF.png )
-
+ <div align=center>
+ <img width="200" height="200" src="https://github.com/actbee/A-Rainy-Afternoon-in-Harajuku-1990.-/blob/master/results/%24%25R%40LGKG~QAHGTMQ%25(YU9P4.png"/>
+ <img width="200" height="200" src="https://github.com/actbee/A-Rainy-Afternoon-in-Harajuku-1990.-/blob/master/results/%25M4FYZ64EHVS91PA96BK_JF.png"/>
+</div>
 
