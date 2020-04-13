@@ -1,7 +1,7 @@
 # A Rainy Afternnon in Harajuku, 1990
 
 
-<div style="align: center">
+<div align=center>
 <img src="https://github.com/actbee/A-Rainy-Afternoon-in-Harajuku-1990.-/blob/master/pics/21.png"/>
 </div>
 
