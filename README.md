@@ -1,6 +1,8 @@
 # A Rainy Afternnon in Harajuku, 1990
 
-<div align=center>![pic](https://github.com/actbee/A-Rainy-Afternoon-in-Harajuku-1990.-/blob/master/pics/21.png)
+<div align=center>
+![pic](https://github.com/actbee/A-Rainy-Afternoon-in-Harajuku-1990.-/blob/master/pics/21.png)
+<div align=left>
 
 ## Introduction
 
@@ -18,7 +20,4 @@ Below are some examples of my results. More can be found in the 'result' file.
 
 ![result2](https://github.com/actbee/A-Rainy-Afternoon-in-Harajuku-1990.-/blob/master/results/%25M4FYZ64EHVS91PA96BK_JF.png )
 
-![result3](https://github.com/actbee/A-Rainy-Afternoon-in-Harajuku-1990.-/blob/master/results/%25%5B%7B9%5DP7(%40%5D)I6)DOV~E(8UR.png )
-
-![result4](https://github.com/actbee/A-Rainy-Afternoon-in-Harajuku-1990.-/blob/master/results/F4NY0LILNYLVLSNHA22%5B)TG.png )
 
