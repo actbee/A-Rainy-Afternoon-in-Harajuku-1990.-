@@ -17,10 +17,8 @@ Indeed, the fashion seems a circle and something never changes regradeless of ti
 Below are some examples of my results. More can be found in the 'results' file.
 
 
- <img width="200" height="200" src="https://github.com/actbee/A-Rainy-Afternoon-in-Harajuku-1990.-/raw/master/results/%24%25R%40LGKG~QAHGTMQ%25(YU9P4.png/">
- <img width="200" height="200" src="https://github.com/actbee/A-Rainy-Afternoon-in-Harajuku-1990.-/raw/master/results/%25M4FYZ64EHVS91PA96BK_JF.png">
- <img width="200" height="200" src="https://github.com/actbee/A-Rainy-Afternoon-in-Harajuku-1990.-/raw/master/results/%25%5B%7B9%5DP7(%40%5D)I6)DOV~E(8UR.png">
- <img width="200" height="200" src="https://github.com/actbee/A-Rainy-Afternoon-in-Harajuku-1990.-/raw/master/results/)L%5DU%7B8%60%25ZLK4~EO%24%60IP8ENH.png">
+ <img width="200" height="200" src="https://github.com/actbee/A-Rainy-Afternoon-in-Harajuku-1990.-/raw/master/results/%24%25R%40LGKG~QAHGTMQ%25(YU9P4.png/"> <img width="200" height="200" src="https://github.com/actbee/A-Rainy-Afternoon-in-Harajuku-1990.-/raw/master/results/%25M4FYZ64EHVS91PA96BK_JF.png">
+ <img width="200" height="200" src="https://github.com/actbee/A-Rainy-Afternoon-in-Harajuku-1990.-/raw/master/results/%25%5B%7B9%5DP7(%40%5D)I6)DOV~E(8UR.png"> <img width="200" height="200" src="https://github.com/actbee/A-Rainy-Afternoon-in-Harajuku-1990.-/raw/master/results/)L%5DU%7B8%60%25ZLK4~EO%24%60IP8ENH.png">
 
 
  <img width="200" height="200" src="https://github.com/actbee/A-Rainy-Afternoon-in-Harajuku-1990.-/raw/master/results/)M%5B%25S)24)HO%5BM5190(_%25Q%609.png">
